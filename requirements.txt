@@ -1,0 +1,8 @@
+
+flask
+flask-smorest
+python-dotenv
+marshmallow
+SQLAlchemy 
+Flask-SQLAlchemy
+flask-jwt  
