@@ -54,7 +54,6 @@ Flask-JWT - Extension for Flask to handle JWT authentication
 
 Author
 Rihab Dabbech - Your Github URL
-License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+
 
 
